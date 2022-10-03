@@ -17,4 +17,4 @@ const StateTutorial = () => {
     </div>
   );
 };
-export default function App() {}
+export default StateTutorial;
